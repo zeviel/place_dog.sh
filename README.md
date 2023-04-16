@@ -3,6 +3,6 @@ Web-API for [place.dog](https://place.dog) an simple service to get cute dogs as
 
 ## Example
 ```bash
-source place_dog.sh
+source ./place_dog.sh
 get_random_dog_image
 ```
